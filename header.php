@@ -16,7 +16,7 @@
 ?>
 
 <head>
-	<link href="config\stylesheet.css" rel="stylesheet">
+	<link href="stylesheet.css" rel="stylesheet">
 	<meta charset="utf-8"> <!-- Defining the character set encoding-->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">  <!-- Responive design meta tag -->
 	<title> Patras Crowdfunding Site</title>
