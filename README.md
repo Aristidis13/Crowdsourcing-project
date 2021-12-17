@@ -1,6 +1,5 @@
 # Crowdsource Analyzer
-This is an unfinished web development project.
-It is my first truly lengthy project and it is about the creation of a crowdsource analyzer that gives the opportunity to the user to:
+This is an unfinished web development project that is about the creation of a crowdsource analyzer that gives the opportunity to the user to:
  - upload files with his google location history data.
  - see in charts the results of his uploads.
  - select and see in a heatmap his movements
